@@ -11,4 +11,6 @@
 
 解决：git pull --allow-unrelated-histories
 
+3.重置仓库
+
 
